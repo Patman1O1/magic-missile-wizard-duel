@@ -1,9 +1,0 @@
-/home/patman101/local/src/repos/uic/cs440/implementation-project/src/client/src/main/java/edu/cs440/project/ClientApplication.java
-/home/patman101/local/src/repos/uic/cs440/implementation-project/src/client/src/main/java/edu/cs440/project/SceneManager.java
-/home/patman101/local/src/repos/uic/cs440/implementation-project/src/client/src/main/java/edu/cs440/project/controllers/GameController.java
-/home/patman101/local/src/repos/uic/cs440/implementation-project/src/client/src/main/java/edu/cs440/project/controllers/LobbyController.java
-/home/patman101/local/src/repos/uic/cs440/implementation-project/src/client/src/main/java/edu/cs440/project/controllers/LoginController.java
-/home/patman101/local/src/repos/uic/cs440/implementation-project/src/client/src/main/java/edu/cs440/project/http/ClientThread.java
-/home/patman101/local/src/repos/uic/cs440/implementation-project/src/client/src/main/java/edu/cs440/project/http/HttpRequest.java
-/home/patman101/local/src/repos/uic/cs440/implementation-project/src/client/src/main/java/edu/cs440/project/http/HttpResponse.java
-/home/patman101/local/src/repos/uic/cs440/implementation-project/src/client/src/main/java/edu/cs440/project/models/GameState.java
